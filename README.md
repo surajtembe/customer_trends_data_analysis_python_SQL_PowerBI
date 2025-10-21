@@ -178,7 +178,7 @@ group by subscription_status;
 
     ## 5. Dashboard in Power BI
     Finally, we built an interactive dashboard in Power BI to present insights visually.
-    ![]()
+    ![](customer-behavior-dashboard.png)
 
     ## 6. Business Recommendations
     - Boost Subscriptions – Promote exclusive benefits for subscribers.
